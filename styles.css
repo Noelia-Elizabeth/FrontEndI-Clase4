@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&display=swap');
+
+* {
+    font-family: sans-serif; 
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header {
+    background-image: url('img/lemon-pie.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 300px;
+    color: white;
+    font-weight: bold;
+    /*opacity: 0.8;
+    position: relative; z-index: 1;*/
+}
+
+h1 {
+    padding-top: 170px;
+}
+
+h3 {
+    position: relative;
+    font-style: italic;
+    font-family: serif;
+}
+
+body {
+    color: rgb(107, 105, 105);
+}
+
+/*div {
+    position:relative; z-index: 3;
+    background-color: rgba(0, 0, 0, 1);
+}*/
+
+footer {
+    color: honeydew;
+    text-align: center;
+    padding: 10px;
+}
+
+#links {
+    padding: 0%;
+}
+
+#merengue {
+    color:orangered;
+    text-decoration: underline;
+}
